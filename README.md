@@ -16,4 +16,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/khushiyadav03/Linked-List/tree/master/0198-house-robber) |
+## Linked List
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/khushiyadav03/Linked-List/tree/master/0445-add-two-numbers-ii) |
+## Math
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/khushiyadav03/Linked-List/tree/master/0445-add-two-numbers-ii) |
+## Stack
+|  |
+| ------- |
+| [0445-add-two-numbers-ii](https://github.com/khushiyadav03/Linked-List/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
