@@ -11,22 +11,26 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        stack<int> st;
-        ListNode* temp = head;
 
-        while(temp != NULL){
-            st.push(temp->val);
-            temp = temp->next;
-        }
+        // Base case:
+        // If list is empty OR only one node is present,
+        // that node itself is the reversed list
+        if(head == NULL || head->next == NULL)
+            return head;
 
-        temp = head;
+        // Recursively reverse the remaining list
+        // newHead will always point to the head of the reversed sublist
+        ListNode* newHead = reverseList(head->next);
 
-        while(temp != NULL){
-            temp->val = st.top();
-            st.pop();
-            temp = temp->next;
-        }
+        // At this point:
+        // head -> next is the last node of the reversed sublist
+        // So we make next node point back to current head
+        head->next->next = head;
 
-        return head;
+        // Break the original link to avoid cycle
+        head->next = NULL;
+
+        // Return the head of reversed list
+        return newHead;
     }
 };
