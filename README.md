@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/khushiyadav03/Linked-List/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/khushiyadav03/Linked-List/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
