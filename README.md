@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/khushiyadav03/Linked-List/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/khushiyadav03/Linked-List/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/khushiyadav03/Linked-List/tree/master/0142-linked-list-cycle-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khushiyadav03/Linked-List/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/khushiyadav03/Linked-List/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/khushiyadav03/Linked-List/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/khushiyadav03/Linked-List/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/khushiyadav03/Linked-List/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/khushiyadav03/Linked-List/tree/master/0445-add-two-numbers-ii) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/khushiyadav03/Linked-List/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/khushiyadav03/Linked-List/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/khushiyadav03/Linked-List/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
