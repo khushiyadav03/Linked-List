@@ -10,25 +10,7 @@
  */
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head){
-        ListNode* prev = nullptr;
-        ListNode* curr = head;
-
-        while(curr){
-            ListNode* nextNode = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = nextNode; 
-        }
-        return prev;
-    }
-
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        // // reverse both lists
-        // l1 = reverseList(l1);
-        // l2 = reverseList(l2);
-
-        // sum
         int carry = 0;
         ListNode* dummy = new ListNode(0);
         ListNode* tail = dummy;
