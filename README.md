@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/khushiyadav03/Linked-List/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/khushiyadav03/Linked-List/tree/master/1019-next-greater-node-in-linked-list) |
 | [3637-trionic-array-i](https://github.com/khushiyadav03/Linked-List/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/khushiyadav03/Linked-List/tree/master/3640-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/khushiyadav03/Linked-List/tree/master/0198-house-robber) |
+| [3640-trionic-array-ii](https://github.com/khushiyadav03/Linked-List/tree/master/3640-trionic-array-ii) |
 ## Linked List
 |  |
 | ------- |
