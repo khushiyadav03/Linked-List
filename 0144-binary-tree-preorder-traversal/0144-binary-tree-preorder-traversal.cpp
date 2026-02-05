@@ -21,7 +21,7 @@ public:
         vector<int> right = preorderTraversal(root->right);
         ans.insert(ans.end(), left.begin(), left.end());
         ans.insert(ans.end(), right.begin(), right.end());
-        
+
         return ans;
     }
 };
